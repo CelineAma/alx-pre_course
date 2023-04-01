@@ -1,1 +1,1 @@
-My first readme
+created a git01 directory
